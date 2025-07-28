@@ -81,3 +81,5 @@
 ---
 
 ### 🤝 Let’s Build the Future with AI & Web3 🚀
+
+<img src="assets/girl-coding-1.gif" />
