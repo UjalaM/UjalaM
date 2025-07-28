@@ -1,4 +1,4 @@
-## Hi there, I'm Ujala Maurya 👋  <img src="assets/girl-coding.gif" width="40" />
+## Hi there, I'm Ujala Maurya 👋  <img src="assets/girl-coding.gif" width="80" />
 
 🚀 **GenAI Developer | Product Engineer | RAG Expert | Web3 Enthusiast | Full-Stack Developer**
 
