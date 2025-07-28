@@ -1,76 +1,83 @@
 ## Hi there, I'm Ujala Maurya 👋
 
-🌟 Product Engineer | GenAI Explorer | Web3 Learner | Full-Stack Developer | Automation Enthusiast |
-🎯 Focused on building impactful solutions using modern technologies like GenAI, RAG, VectorDB, Blockchain, Web3
+🚀 **GenAI Developer | Product Engineer | RAG Expert | Web3 Enthusiast | Full-Stack Developer**
+
+🔍 Specializing in **Retrieval-Augmented Generation (RAG)**, **LLM Systems**, **CI/CD Pipelines**, and **Automation Engineering**  
+🎯 Passionate about solving real-world problems using AI, blockchain, and cloud-native technologies.
 
 ---
 
-### 💼 About Me
+### 💡 About Me
 
-👩‍💻 Currently working as GenAI and Automation Engineer
-📌 Experienced in designing scalable CI/CD pipelines, backend APIs, frontend applications  
-🧠 Exploring cutting-edge tech like Generative AI, Web3, and blockchain ecosystems  
-🚀 Passionate about solving real-world problems and contributing to open-source  
-
----
-
-### 🛠️ Tech Stack
-
-**AI & Automation:**  
-`LangChain` `LLMs` `RAG` `Prompt Engineering` `Test Automation` `Python Orchestration`
-
-**Cloud & DevOps:**  
-`AWS` `GitHub Actions` `Docker Hub` `Vercel` `Netlify`  
-
-**Languages & Frameworks:**  
-`JavaScript` `Python` `Java` `HTML` `CSS` `Node.js` `Express.js` `React.js` `TailwindCSS`
-
-**Backend & Tools:**  
-`MongoDB` `Docker` `Jenkins` `Git` `Postman` `Selenium` `CI/CD` `REST APIs` `OpenAI API`
+👩‍💻 Currently working as a **GenAI + Automation Engineer**  
+⚙️ Built internal **Agentic RAG Chatbots** to reduce ticket resolution by 60%  
+🧪 Designed scalable **CI/CD pipelines** and automated test orchestration saving 10+ days/month  
+📚 Constantly exploring **Vector DBs**, **LangChain**, **FastAPI**, and **LLMs**  
+🤝 Contributor to open-source projects and SaaS side-projects in AI + Web3
 
 ---
 
-### 📚 Current Focus
+### 🛠️ My Tech Arsenal
 
-- 🌱 Learning and building with **Web3** and **AI tools**
-- 🛠️ Developing SaaS tools like **YouTube Video to Notes Generator**
-- ⚙️ Working on a **Job Referral Marketplace**
-- 📈 Improving my skills in **backend scaling** and **microservices architecture**
+**🧠 AI & GenAI Systems:**  
+`LangChain` `LLMs` `RAG Architecture` `Prompt Engineering` `VectorDB (Vespa)` `FastAPI`
 
----
+**⚙️ Automation & Orchestration:**  
+`Python Scripting` `Selenium (100+ scripts)` `Java` `EC2 Provisioning Automation` `AWS`
 
-### 📌 Featured Projects
+**🌐 Full Stack & Tools:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `HTML` `CSS` `TailwindCSS`
 
-- 🎓 **AI-Powered Attendance System**  
-  Face recognition based student attendance tracker with admin panel and webcam integration
-
-- 🧪 **Covid Mask Detector**  
-  Real-time face mask detection using OpenCV & deep learning
-
-- 🚀 **CI/CD Automation Platform**  
-  Built a pipeline that builds, tests, and deploys projects with Jenkins and Docker
-
-- 📘 **Job Referral Platform** *(In Progress)*  
-  Connecting job seekers and referrers with transparent analytics
-
-- 🧠 **AI Notes & Slide Generator** *(SaaS Project)*  
-  Converts YouTube videos into notes & AI-powered presentations
+**🚀 DevOps & Infra:**  
+`CI/CD` `Docker` `Jenkins` `GitHub Actions` `Linux Shell` `Netlify` `Vercel`
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Key Projects & Impact
+
+#### 🔍 Seclore RAG System *(Internal LLM Chatbot)*  
+- Built an **Agentic RAG chatbot** using **LangChain**, **Vespa**, and **FastAPI**  
+- Reduced support tickets by **60%** and cut false responses by **40%+**  
+- Automated production queries and integrated tool-calling & prompt tuning
+
+#### 🧠 AI Notes & Slide Generator *(SaaS Project)*  
+- Converts YouTube videos into **interactive notes** & **AI-generated slides**  
+- In progress: Supporting **freemium plans** and graphical key-point representation
+
+#### 🎓 Face Recognition Attendance System  
+- Achieved **95% accuracy** for facial recognition using HOG model  
+- Subject-wise Excel reports with webcam-based tracking
+
+#### 🧪 Covid Mask Detector  
+- Real-time mask detection using **OpenCV** and **Deep Learning CNN**
+
+#### ⚙️ CI/CD Automation Platform  
+- Docker + Jenkins pipelines for full build-test-deploy lifecycle  
+- Reduced manual efforts from **2 PD to 0.5 PD**
+
+---
+
+### 📈 GitHub Stats
 
 ![Ujala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UjalaM&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjalaM&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with Me
+### 🌱 Currently Learning & Building
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ujala-maurya-606590192/)  
-- 🐦 [Twitter / X](https://x.com/i_ujalam)
-- 📧 Email: **ujalamaurya66@gmail.com**  
+- Advanced **RAG architectures** & **GenAI tooling**
+- SaaS platforms in **Web3**, **AI integrations**, and **Job Referrals**
+- Deepening expertise in **backend scaling** & **microservices architecture**
 
 ---
 
-### 🙌 Let's Build Something Amazing Together!
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ujala-maurya-606590192/)
+- 🐦 [Twitter / X](https://x.com/i_ujalam)
+- 📧 Email: **ujalamaurya66@gmail.com**
+
+---
+
+### 🤝 Let’s Build the Future with AI & Web3 🚀
