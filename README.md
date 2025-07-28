@@ -67,7 +67,7 @@
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ujala-maurya](https://www.linkedin.com/in/ujala-maurya-606590192/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ujala-maurya-606590192/)  
 - 🐦 [Twitter / X](https://x.com/i_ujalam)
 - 📧 Email: **ujalamaurya66@gmail.com**  
 
