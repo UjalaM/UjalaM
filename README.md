@@ -109,6 +109,4 @@ I’m interested in **Senior AI Engineer, Applied AI, and GenAI engineering oppo
 
 [Connect on LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Send me an email](mailto:ujalamaurya.um@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=UjalaM&style=flat-square&color=6C63FF" alt="Profile views" />
-
 </div>
