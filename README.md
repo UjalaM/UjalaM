@@ -1,85 +1,114 @@
-# <img src="assets/Hi.gif" width="35px"> Hi there, I'm Ujala Maurya
+ <div align="center">
 
-🚀 **GenAI Developer | Product Engineer | RAG Expert | Web3 Enthusiast | Full-Stack Developer**
+# Ujala Maurya
 
-🔍 Specializing in **Retrieval-Augmented Generation (RAG)**, **LLM Systems**, **CI/CD Pipelines**, and **Automation Engineering**  
-🎯 Passionate about solving real-world problems using AI, blockchain, and cloud-native technologies.
+### Senior Machine Learning Engineer · Generative AI · Agentic AI
 
----
+**Building intelligent systems for real-world impact.**
 
-### 💡 About Me
+[LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Email](mailto:ujalamaurya.um@gmail.com) · [GitHub](https://github.com/UjalaM)
 
-👩‍💻 Currently working as a **GenAI + Automation Engineer**  
-⚙️ Built internal **Agentic RAG Chatbots** to reduce ticket resolution by 60%  
-🧪 Designed scalable **CI/CD pipelines** and automated test orchestration saving 10+ days/month  
-📚 Constantly exploring **Vector DBs**, **LangChain**, **FastAPI**, and **LLMs**  
-🤝 Contributor to open-source projects and SaaS side-projects in AI + Web3
+<img src="https://img.shields.io/badge/Focus-Production%20AI-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/GenAI-RAG%20%7C%20Agents-0A7B83?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20AWS-4285F4?style=flat-square" />
 
----
-
-### 🛠️ My Tech Arsenal
-
-**🧠 AI & GenAI Systems:**  
-`LangChain` `LLMs` `RAG Architecture` `Prompt Engineering` `VectorDB (Vespa)` `FastAPI`
-
-**⚙️ Automation & Orchestration:**  
-`Python Scripting` `Selenium (100+ scripts)` `Java` `EC2 Provisioning Automation` `AWS`
-
-**🌐 Full Stack & Tools:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `HTML` `CSS` `TailwindCSS`
-
-**🚀 DevOps & Infra:**  
-`CI/CD` `Docker` `Jenkins` `GitHub Actions` `Linux Shell` `Netlify` `Vercel`
+</div>
 
 ---
 
-### 📌 Key Projects & Impact
+## 👋 A little about me
 
-#### 🔍 Seclore RAG System *(Internal LLM Chatbot)*  
-- Built an **Agentic RAG chatbot** using **LangChain**, **Vespa**, and **FastAPI**  
-- Reduced support tickets by **60%** and cut false responses by **40%+**  
-- Automated production queries and integrated tool-calling & prompt tuning
+I’m an AI engineer focused on turning LLMs into **reliable, scalable products**. My work spans enterprise RAG, multi-agent systems, AI guardrails, and cloud-native AI services.
 
-#### 🧠 AI Notes & Slide Generator *(SaaS Project)*  
-- Converts YouTube videos into **interactive notes** & **AI-generated slides**  
-- In progress: Supporting **freemium plans** and graphical key-point representation
+Currently building production AI solutions at **Quantiphi**. Previously, I worked on enterprise AI platforms at **Seclore**.
 
-#### 🎓 Face Recognition Attendance System  
-- Achieved **95% accuracy** for facial recognition using HOG model  
-- Subject-wise Excel reports with webcam-based tracking
+<details>
+<summary><b>What I enjoy building</b></summary>
 
-#### 🧪 Covid Mask Detector  
-- Real-time mask detection using **OpenCV** and **Deep Learning CNN**
+- Agentic AI systems that use tools and orchestrate workflows
+- RAG applications that make enterprise knowledge accessible
+- AI services designed for reliability, latency, and scale
+- Evaluation and guardrails that make AI safer to deploy
 
-#### ⚙️ CI/CD Automation Platform  
-- Docker + Jenkins pipelines for full build-test-deploy lifecycle  
-- Reduced manual efforts from **2 PD to 0.5 PD**
+</details>
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured work
 
-![Ujala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UjalaM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjalaM&layout=compact&theme=radical)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent AI Systems
+**Quantiphi · Production AI**
+
+Building agent workflows with Google ADK, Gemini, and Vertex AI.
+
+- Multi-agent orchestration
+- Guard Agent and controlled actions
+- Multilingual support across 40+ languages
+- 50% lower response latency
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Agentic RAG Platform
+**Seclore · Enterprise AI**
+
+Enterprise knowledge retrieval across private document sources.
+
+- LangChain, FastAPI, VespaDB
+- Hybrid search and reranking
+- 40% reduction in hallucinations
+- 60% less engineering dependency for support queries
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌱 Currently Learning & Building
+## 🧰 My toolkit
 
-- Advanced **RAG architectures** & **GenAI tooling**
-- SaaS platforms in **Web3**, **AI integrations**, and **Job Referrals**
-- Deepening expertise in **backend scaling** & **microservices architecture**
+<div align="center">
+
+**AI & Agentic Systems**
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0A7B83?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=flat-square" />
+<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
+
+**Engineering & Cloud**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🎯 What I’m focused on
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ujala-maurya-606590192/)
-- 🐦 [Twitter / X](https://x.com/i_ujalam)
-- 📧 Email: **ujalamaurya66@gmail.com**
+`Production GenAI` · `RAG Optimization` · `Multi-Agent Systems` · `LLM Evaluation` · `AI Infrastructure`
+
+I’m interested in **Senior AI Engineer, Applied AI, and GenAI engineering opportunities** where I can build and scale impactful AI products.
 
 ---
 
-### 🤝 Let’s Build the Future with AI & Web3 🚀
+<div align="center">
 
-<img src="assets/girl-coding-1.gif" />
+### Let’s build something meaningful.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Send me an email](mailto:ujalamaurya.um@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=UjalaM&style=flat-square&color=6C63FF" alt="Profile views" />
+
+</div>
