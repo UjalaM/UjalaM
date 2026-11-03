@@ -6,7 +6,7 @@
 
 **Building intelligent systems for real-world impact.**
 
-[LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Email](mailto:ujalamaurya.um@gmail.com) · [GitHub](https://github.com/UjalaM)
+[LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Email](mailto:ujalamaurya66@gmail.com) · [GitHub](https://github.com/UjalaM)
 
 <img src="https://img.shields.io/badge/Focus-Production%20AI-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/GenAI-RAG%20%7C%20Agents-0A7B83?style=flat-square" />
@@ -107,6 +107,6 @@ I’m interested in **Senior AI Engineer, Applied AI, and GenAI engineering oppo
 
 ### Let’s build something meaningful.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Send me an email](mailto:ujalamaurya.um@gmail.com)
+[Connect on LinkedIn](https://www.linkedin.com/in/ujala-maurya-ai/) · [Send me an email](mailto:ujalamaurya66@gmail.com)
 
 </div>
